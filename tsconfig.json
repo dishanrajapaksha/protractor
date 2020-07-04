@@ -8,7 +8,9 @@
     "noImplicitAny": false,
     "outDir": "tmp",
     "strict": true,
-    "target": "ES2018"
+    "target": "ES2018",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true
   },
   "exclude": [
     "node_modules"

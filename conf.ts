@@ -25,9 +25,6 @@ export let config: Config = {
     showColors: true,
     defaultTimeoutInterval: 150000,
   },
-  params: {
-    baseUrl: 'http://www.thejamstop.com/user/login'
-  },
   seleniumAddress: 'http://localhost:4444/wd/hub',
   suites: [],
   onPrepare: () => {
