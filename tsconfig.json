@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": false,
+    "incremental": true,
+    "inlineSourceMap": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "outDir": "tmp",
+    "strict": true,
+    "target": "ES2018"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
